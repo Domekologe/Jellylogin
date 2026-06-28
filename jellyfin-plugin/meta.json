@@ -4,7 +4,7 @@
   "name": "DKS JellyLogin SSO",
   "description": "Single Sign-On via DKS JellyLogin — authenticate Jellyfin users with their JellyLogin credentials.",
   "overview": "Allows Jellyfin to delegate authentication to a running DKS JellyLogin instance.",
-  "owner": "DomeKologe",
+  "owner": "Domekologe",
   "versions": [
     {
       "version": "1.0.0.0",

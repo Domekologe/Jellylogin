@@ -68,7 +68,7 @@ Open **http://localhost:5000** and complete the first-run setup.
 ### From source
 
 ```bash
-git clone https://github.com/domekologe/jellylogin
+git clone https://github.com/PD-Codes/jellylogin
 cd jellylogin
 pip install -e .
 jellylogin
@@ -196,7 +196,7 @@ server {
 ## Development
 
 ```bash
-git clone https://github.com/domekologe/jellylogin
+git clone https://github.com/PD-Codes/jellylogin
 cd jellylogin
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate

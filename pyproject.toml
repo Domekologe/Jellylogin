@@ -34,8 +34,8 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/domekologe/jellylogin"
-"Bug Tracker" = "https://github.com/domekologe/jellylogin/issues"
+Homepage = "https://github.com/PD-Codes/jellylogin"
+"Bug Tracker" = "https://github.com/PD-Codes/jellylogin/issues"
 
 [project.scripts]
 jellylogin = "jellylogin.app:main"

@@ -3,7 +3,7 @@ services:
   # ── JellyLogin ────────────────────────────────────────────────────────────
   jellylogin:
     build:
-      context: https://github.com/Domekologe/Jellylogin.git#main
+      context: https://github.com/PD-Codes/Jellylogin.git#main
     image: jellylogin:latest
     container_name: jellylogin
     restart: unless-stopped
